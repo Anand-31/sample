@@ -1,0 +1,7 @@
+.card1img, .card2img, .card3img{
+    height: 300px;
+    overflow: hidden;
+}
+.heading{
+    overflow: hidden;
+}
